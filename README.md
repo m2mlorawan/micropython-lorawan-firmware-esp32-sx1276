@@ -1,4 +1,4 @@
-Work with Heltec LoRa V.2 ESP32 SX1276
+Work with Heltec LoRa V.2 ESP32 SX1276 Only for AS923 Thailand
 
 
 ```python
