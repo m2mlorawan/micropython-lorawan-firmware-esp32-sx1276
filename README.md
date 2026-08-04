@@ -1,5 +1,4 @@
-micropython-lorawan-heltec-v2.0.bin for AS923 work with Heltec LoRa V.2 ESP32 SX1276 Only for AS923 Thailand.
-micropython-lorawanUS915AU915AS923-heltec-v2 for US915, AU915, AS923 work with Heltec LoRa V.2 ESP32 SX1276.
+micropython-lorawan-ESP32+SX1276.bin for EU868, US915, AU915, AS923 work with ESP32 and SX1276.
 
 ```python
 import lorawan, time
