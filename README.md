@@ -1,10 +1,14 @@
-micropython-lorawan-ESP32+SX1276.bin for EU868, US915, AU915, AS923 work with ESP32 and SX1276. Download and flash at address 0x0
+micropython-lorawan-ESP32+SX1276.bin for EU868, US915, AU915, AS923 work with ESP32 and SX1276. 
+Download this file and flash at address 0x0
 
 https://esptool.spacehuhn.com/
 
 bootloader.bin at 0x1000
+
 partition-table.bin at 0x8000
+
 micropython.bin at 0x10000
+
 
 
 ```python
