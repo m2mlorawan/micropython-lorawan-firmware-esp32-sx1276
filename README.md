@@ -3,6 +3,8 @@ Download this file and flash at address 0x0
 
 https://esptool.spacehuhn.com/
 
+If want to flash 3 files, use these address:
+
 bootloader.bin at 0x1000
 
 partition-table.bin at 0x8000
